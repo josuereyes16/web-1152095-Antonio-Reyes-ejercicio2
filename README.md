@@ -8,8 +8,8 @@
 
 1. Clone this repository
 
-   ```sh
-   [https://github.com/josuereyes16/backend-Todoapp404.git](https://github.com/josuereyes16/web-1152095-Antonio-Reyes-ejercicio2.git)
+```sh
+   https://github.com/josuereyes16/web-1152095-Antonio-Reyes-ejercicio2.git
    ```
 2. Create Virtual Env
 
@@ -25,7 +25,6 @@ pip install -r requirements.txt
 4. Run the Server
 
 ```bash
-make run or 
 python manage.py runserver
 ```
 5. Open your browser  
